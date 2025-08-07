@@ -29,4 +29,4 @@ open with browser
 🙋‍♀️ Author
 
 **Vaishnavi R.**  
-[GitHub Profile](https://github.com/vaishh-navii)  
+[GitHub Profile](https://github.com/vaishh-navii/cofee-shop-website)  
